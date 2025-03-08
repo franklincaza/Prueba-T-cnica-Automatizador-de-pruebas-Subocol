@@ -1,0 +1,13 @@
+2025-03-08 00:46:15 - INFO - 🔹 Autenticador inicializado con URL: https://castlemockdemo.subocol.com/castlemock/mock/rest/project/NpJ1A9/application/eu72DD/login
+2025-03-08 00:46:15 - INFO - 🔹 Ejecutando prueba: login exitoso
+2025-03-08 00:46:15 - INFO - ✅ Simulando respuesta de éxito con sessionid ca45aa1c-118e-42f6-b9c5
+2025-03-08 00:46:15 - INFO - 📨 Enviando solicitud de login para loginexitoso@subocol.com
+2025-03-08 00:46:15 - ERROR - ❌ Error en la solicitud: 503 Server Error: Service Temporarily Unavailable for url: https://castlemockdemo.subocol.com/castlemock/mock/rest/project/NpJ1A9/application/eu72DD/login
+2025-03-08 00:46:15 - INFO - 🔹 Autenticador inicializado con URL: https://castlemockdemo.subocol.com/castlemock/mock/rest/project/NpJ1A9/application/eu72DD/login
+2025-03-08 00:46:15 - INFO - 🔹 Ejecutando prueba: login fallido
+2025-03-08 00:46:15 - WARNING - ⛔ Simulando error 401 para login fallido
+2025-03-08 00:46:15 - INFO - 📨 Enviando solicitud de login para loginemailnotienecognitoidenbasededatos@subocol.com
+2025-03-08 00:46:16 - ERROR - ❌ Error en la solicitud: 503 Server Error: Service Temporarily Unavailable for url: https://castlemockdemo.subocol.com/castlemock/mock/rest/project/NpJ1A9/application/eu72DD/login
+2025-03-08 00:46:16 - WARNING - ⛔ login fallido falló correctamente como se esperaba
+2025-03-08 00:46:16 - INFO - 🔹 Prueba completada: login fallido
+

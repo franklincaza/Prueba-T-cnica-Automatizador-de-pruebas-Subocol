@@ -1,0 +1,22 @@
+[
+    {
+        "session": {
+            "sessionid": "ca45aa1c-118e-42f6-b9c5"
+        },
+        "input": {
+            "email": "loginexitoso@subocol.com",
+            "password": "133deF4*",
+            "tokenReCaptcha": "03AGdBq24D1MLP7hdEJvHb2PxyzZxTu7hx4m-A7xNU7lABR-yC83NAxZONPkp"
+        }
+    },
+    {
+        "session": {
+            "sessionid": "123e4567-e89b-12d3-a456-426614174000"
+        },
+        "input": {
+            "email": "loginemailnotienecognitoidenbasededatos@subocol.com",
+            "password": "A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5p6Q7r8S9t0U1v2W3x4Y5z6a7B8c9D",
+            "tokenReCaptcha": "03AGdBq27GJsZ6N5ZLMn2J7B5Mv9HV2Q3-KF6QeN_U0bgDFMfpX2cEG9E9aK-Vg7CjeLwSLh5wXf7rC4QX8YGvZaVTPxNtP3JTFQkLg7cBxRu_aGNC3KJTo5MQ9w6RHRsTdDFlT_UeA5vjT4GHV_kRfMfCgDRYX9X0QD8fNLrUpVUCgV-QEjP8WZPb4jNQ9FmEdYStW7Bw6-YHYZh"
+        }
+    }
+]
